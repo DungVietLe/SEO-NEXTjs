@@ -13,6 +13,18 @@ export const metadata: Metadata = {
     images: [
       {
         url: 'https://tapchigiaothong.qltns.mediacdn.vn/zoom/686_429/tapchigiaothong.vn/files/duc.anh/2015/07/15/mercedes-s63-amg-3-1545.jpg',
+        width: 1200,
+        height: 630,
+      },
+      {
+        url: 'https://tapchigiaothong.qltns.mediacdn.vn/zoom/686_429/tapchigiaothong.vn/files/duc.anh/2015/07/15/mercedes-s63-amg-3-1545.jpg',
+        width: 170,
+        height: 170,
+      },
+      {
+        url: 'https://tapchigiaothong.qltns.mediacdn.vn/zoom/686_429/tapchigiaothong.vn/files/duc.anh/2015/07/15/mercedes-s63-amg-3-1545.jpg',
+        width: 128,
+        height: 128,
       },
     ],
     locale: 'en-US',
