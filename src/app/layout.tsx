@@ -12,15 +12,7 @@ export const metadata: Metadata = {
     url: 'https://my-seo-nextjs.vercel.app/',
     images: [
       {
-        url: 'https://nextjs.org/og.pnghttps://i1-vnexpress.vnecdn.net/2016/06/21/Brabus-850-60-Cabrio-S63-4-5460-1466477030.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=UVhpAXhb_K3cYBbjPJkyRw',
-        width: 800,
-        height: 600,
-      },
-      {
-        url: 'https://i1-vnexpress.vnecdn.net/2016/06/21/Brabus-850-60-Cabrio-S63-4-5460-1466477030.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=UVhpAXhb_K3cYBbjPJkyRw',
-        width: 1800,
-        height: 1600,
-        alt: 'My custom alt',
+        url: 'https://tapchigiaothong.qltns.mediacdn.vn/zoom/686_429/tapchigiaothong.vn/files/duc.anh/2015/07/15/mercedes-s63-amg-3-1545.jpg',
       },
     ],
     locale: 'en-US',
